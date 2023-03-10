@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available on **[My Github Repositories](https://github.com/AymaneLk?tab=repositories)**
 
-- 📫 How to reach me **[Facebook](https://facebook.com/Aymane.Lkhawa.125)**
+- 📫 How to reach me **[Linkedin](https://linkedin.com/in/aymane-l-a39a04123/)**
 
 - ⚡ Fun fact **I'm a Gamer and Martial Arts Guy.**
 
