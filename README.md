@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Frontend Technologies.**
+- 🌱 I’m currently learning **Fullstack Technologies.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
